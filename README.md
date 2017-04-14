@@ -1,6 +1,6 @@
 <h1 align="center">S.O.L.I.D Principles</h1>
 
-## 1. Vấn đề của Developers
+### 1. Vấn đề của Developers
 
 > Làm việc với các function, class hàng trăm, hàng nghìn dòng code.
 
@@ -11,7 +11,7 @@ Việc này bắt nguồn từ cách viết code của các developer và nó k�
 
 Và để cải thiện vấn đề này thì **SOLID** ra đời.
 
-## 2. SOLID là gì?
+### 2. SOLID là gì?
 
 SOLID là 5 quy tắc viết code trong lập trình hướng đối tượng:
 
