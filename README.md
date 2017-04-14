@@ -2,7 +2,7 @@
 
 ## 1. Vấn đề của Developers
 
-> Làm việc với các function hàng trăm dòng code, class hàng nghìn dòng code.
+> Làm việc với các function, class hàng trăm, hàng nghìn dòng code.
 
 Việc này bắt nguồn từ cách viết code của các developer và nó kéo theo rất nhiều hệ lụy:
 
